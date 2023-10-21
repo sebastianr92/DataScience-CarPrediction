@@ -58,7 +58,3 @@ El proyecto requiere las siguientes bibliotecas de Python:
 ## Autor
 
 - Sebastián Risi
-
-## Enlace al Cuaderno de Jupyter
-
-[Proyecto I](M6\Proyecto Integrador\Propuesta 2\Proyecto_integrador_1.md)
