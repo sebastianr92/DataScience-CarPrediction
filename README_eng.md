@@ -61,4 +61,4 @@ Author
 
 ## Link to Jupyter Notebook
 
-[Accses to Project](https://github.com/sebastianr92/ProyectoIntegrador_ML.git)
+[Accses to Project]([ProyectoIntegrador_ML](https://github.com/sebastianr92/ProyectoIntegrador_ML/blob/main/EDA%2C%20Modelo%20y%20Evaluacion.ipynb)https://github.com/sebastianr92/ProyectoIntegrador_ML/blob/main/EDA%2C%20Modelo%20y%20Evaluacion.ipynb)
