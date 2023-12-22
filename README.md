@@ -1,4 +1,4 @@
-# 🚗 Data Science Project- Análisis de Mercado Automotor 📈
+# 🚗 Data Science Project- Análisis de Mercado Automotor 
 
 Este proyecto integrador tiene como objetivo explorar, preparar y modelar datos relacionados con el mercado automotor para proporcionar insights valiosos a una empresa automotriz que desea ingresar a un nuevo mercado. El proyecto se divide en tres fases: análisis exploratorio de datos, preparación de datos y modelamiento y evaluación.
 
